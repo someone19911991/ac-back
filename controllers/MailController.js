@@ -38,13 +38,13 @@ class MailController {
                 port: "587",
                 secure: false,
                 auth: {
-                    user: "someone19911993@gmail.com",
-                    pass: "xlpnfcorjnpxfsml",
+                    user: "autocomplex83@gmail.com",
+                    pass: "mhtpcpzjdhslxuoc",
                 },
             });
             const mailData = {
-                from: "someone19911993@gmail.com",
-                to: "someone19911993@gmail.com",
+                from: "autocomplex83@gmail.com",
+                to: "autocomplex83@gmail.com",
                 subject: "Զանգի պատվեր",
                 text: "",
                 html: `<h1 style="text-align: center">Զանգի պատվեր</h1>
